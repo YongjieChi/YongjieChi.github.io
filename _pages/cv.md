@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Software Engineering**, Tianjin University *(2024–Present)*
+  * Visual Computing Group
+  * Advisor: **Assoc. Prof. Gang Pan**
+  * Large lab led by **Prof. Jiawan Zhang**
+  * Research Areas: Computer Vision, Image Generation, Cross-modal Learning
 
-Work experience
+* **B.Eng. in Software Engineering**, Tianjin University *(2021–2025)*  
+  * Undergraduate Research Training & Projects in AI and Visual Computing
+
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Researcher**, Visual Computing Group, Tianjin University *(2025–Present)*
+  * Topics: generative models, multimodal representation learning, controllable visual synthesis
+  * Working on diffusion-based visual generation and cross-modal feature interaction
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Undergraduate Research Projects**, Tianjin University *(2021–2025)*
+  * Deep learning model development for image processing tasks
+  * Independent study and project participation under faculty guidance
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python, C++, JavaScript
+* **Deep Learning:** PyTorch, Lightning, Diffusion Models  
+* **Tools & Frameworks:** Git, Linux, Docker, Vue3  
+* **Languages:** Chinese (Native), English (Fluent)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+*(None yet — currently conducting research and preparing publications)*  
+
+
+Service and Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Member, Visual Computing Research Group, Tianjin University  
+* Active contributor in lab seminars & student research activities  
+
