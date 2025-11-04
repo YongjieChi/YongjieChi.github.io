@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Software Engineering**, Tianjin University *(2024–Present)*
+* **M.S. in Software Engineering**, Tianjin University *(2025–Present)*
   * Visual Computing Group
   * Advisor: **Assoc. Prof. Gang Pan**
   * Large lab led by **Prof. Jiawan Zhang**
